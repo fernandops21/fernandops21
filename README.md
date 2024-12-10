@@ -2,21 +2,21 @@
 
 Welcome to my GitHub profile! Here, you'll find a mix of my journey, passions, and projects. Let's dive in:  
 
-### 🌟 **About Me**  
-🎓 **Education**:  
+## 🌟 **About Me**  
+### 🎓 **Education**:  
 Graduated in Statistics from the Escola Nacional de Ciências Estatísticas (ENCE), where I developed strong analytical and problem-solving skills.  
 
-💼 **Professional Experience**:  
+### 💼 **Professional Experience**:  
 - 8+ years as an entrepreneur, leading teams and delivering results through training and innovation.  
 - Transitioned into **Data Science**, working at Visagio, where I developed and implemented projects focused on digital transformation and innovation.  
 - Former Senior Business Analyst at **Light**, applying data-driven insights to optimize business processes and support decision-making.  
 
-📊 **Data Expertise**:  
+### 📊 **Data Expertise**:  
 - Experienced in building predictive models, performing data analysis, and automating processes using **Python** (Pandas, NumPy, Scikit-learn, etc.).  
 - Skilled in **ETL processes**, **A/B testing**, and transforming raw data into actionable insights.  
 - Focused on leveraging data to solve complex business problems and create value.  
 
-🤖 **Current Focus**:  
+### 🤖 **Current Focus**:  
 - Exploring advancements in **Artificial Intelligence** and their practical applications.  
 - Developing skills in **Product Management (PM)** to bridge the gap between technology and business, aiming to deliver impactful solutions.  
 
