@@ -1,28 +1,32 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**fernandops21/fernandops21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you'll find a mix of my journey, passions, and projects. Let's dive in:  
 
-Here are some ideas to get you started:
+### 🌟 **About Me**  
+🎓 **Education**:  
+Graduated in Statistics from the Escola Nacional de Ciências Estatísticas (ENCE), where I developed strong analytical and problem-solving skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Professional Experience**:  
+- 8+ years as an entrepreneur, leading teams and delivering results through training and innovation.  
+- Transitioned into **Data Science**, working at Visagio, where I developed and implemented projects focused on digital transformation and innovation.  
+- Former Senior Business Analyst at **Light**, applying data-driven insights to optimize business processes and support decision-making.  
 
-- 🔭 I’m currently not working. I mean, I've been working on my knowlodge and mind lately! 
-- 🌱 I’m currently learning AI and also studying to be a PM.
-- 💬 Ask me about anything you are curious about me! 
-- 📫 How to reach me: just say Hi on Linkedin or Instagram!
-- ⚡ Fun fact: I've been an entrepeneur for the most of my life. Also I'm an avid volleyball player!
+📊 **Data Expertise**:  
+- Experienced in building predictive models, performing data analysis, and automating processes using **Python** (Pandas, NumPy, Scikit-learn, etc.).  
+- Skilled in **ETL processes**, **A/B testing**, and transforming raw data into actionable insights.  
+- Focused on leveraging data to solve complex business problems and create value.  
 
-A little description about me:
+🤖 **Current Focus**:  
+- Exploring advancements in **Artificial Intelligence** and their practical applications.  
+- Developing skills in **Product Management (PM)** to bridge the gap between technology and business, aiming to deliver impactful solutions.  
 
-Graduated in Statistics from the Escola Nacional de Ciências Estatísticas – ENCE, with honors and awards. Professional with 8 years of experience in entrepreneurship, team leadership and training. After a career transition, I spent over a year working in Data Science at Visagio, a company specializing in business management, technology and innovation. I was dedicated to the development and implementation of projects, identifying opportunities to create value for clients with a focus on digital transformation and innovation. Later, I was hired as a Senior Business Analyst at Light.
+### ⚡ **Fun Facts**  
+🏐 Beach volleyball enthusiast – you’ll often find me at the court when I’m not coding!  
+🎥 Passionate about movies, series, and travel – always curious to learn something new about the world.  
 
-Currently, I am an avid learner and enthusiast in the field of Artificial Intelligence, continually expanding my knowledge to understand and leverage AI’s potential for driving impactful, innovative solutions.
+### 🌱 **What I’m Working On**  
+I'll admit: it’s been a while since my last commit! But I’m currently revisiting my GitHub to showcase some of the work I’ve done in **Data Science** and expand it with new projects as I continue learning and growing in this field. At the same time, I’m diving into **AI and Product Management**, combining technical expertise with strategic thinking to prepare for exciting new challenges.  
+
+### 💬 **Let’s Connect!**  
+Feel free to ask me anything about my journey, passions, or even data!  
+📫 **Reach me on**: [LinkedIn](https://www.linkedin.com/in/fernando-pires-dos-santos/) | [Instagram](https://www.instagram.com/fernandosnts/)
