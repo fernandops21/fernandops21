@@ -44,9 +44,11 @@ This GitHub contains academic projects, technical studies and selected personal 
 
 ## Tools
 
-## Technical Stack
+## Technical Skills
 
-Python • SQL • PySpark • Scikit-learn • XGBoost • LightGBM • MLflow • dbt • Power BI • DAX • AWS • Git
+**Data & Analytics:** Python, SQL, Power BI, DAX  
+**Data Engineering:** PySpark, dbt, ETL/ELT, data pipelines, AWS  
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, MLflow, model evaluation, experimentation
 
 ## Let's connect
 
