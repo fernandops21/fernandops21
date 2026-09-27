@@ -1,59 +1,51 @@
-# Hi there! 👋  
+# Hi, I'm Fernando 👋
 
-Welcome to my GitHub profile! Here, you'll find a mix of my journey, passions, and projects. Let's dive in:  
+Statistician and data professional with experience across analytics, data engineering, machine learning, automation, BI, and business strategy.
 
-## 🌟 **About Me**  
-### 🎓 **Education**:  
-Graduated in Statistics from the Escola Nacional de Ciências Estatísticas (ENCE), where I developed strong analytical and problem-solving skills.  
+Currently working as a Data Scientist on enterprise data and ML initiatives in the energy sector, where I combine statistical thinking, automation, analytics, and stakeholder management to turn complex business problems into practical data solutions.
 
-### 💼 **Professional Experience**:  
-- 8+ years as an entrepreneur, leading teams and delivering results through training and innovation.  
-- Transitioned into **Data Science**, working at Visagio, where I developed and implemented projects focused on digital transformation and innovation.  
-- Former Senior Business Analyst at **Light**, applying data-driven insights to optimize business processes and support decision-making.  
+## What I work with
 
-### 📊 **Data Expertise**:  
-- Experienced in building predictive models, performing data analysis, and automating processes using **Python** (Pandas, NumPy, Scikit-learn, etc.).  
-- Skilled in **ETL processes**, **A/B testing**, and transforming raw data into actionable insights.  
-- Focused on leveraging data to solve complex business problems and create value.  
+- Data analysis and statistical modeling
+- Python, SQL, Pandas, Scikit-learn and automation
+- ETL and data pipelines
+- Machine Learning and model evaluation
+- Power BI, DAX and business intelligence
+- Experimentation and A/B testing
+- Process optimization and operational analytics
+- Translating business problems into data solutions
 
-### 🤖 **Current Focus**:  
-- Exploring advancements in **Artificial Intelligence** and their practical applications.  
-- Developing skills in **Product Management (PM)** to bridge the gap between technology and business, aiming to deliver impactful solutions.  
+## Experience highlights
 
-### ⚡ **Fun Facts**  
-🏐 Beach volleyball enthusiast – you’ll often find me at the court when I’m not coding!  
-🎥 Passionate about movies, series, and travel – always curious to learn something new about the world.  
+- Built and automated data workflows supporting large-scale customer operations
+- Used data analysis to reduce low-value customer contacts and improve campaign profitability
+- Worked on applied ML projects for quality assessment and classification
+- Led technical prioritization across multiple concurrent data projects
+- Worked closely with business stakeholders to define KPIs, improve processes and support decision-making
 
-### 🌱 **What I’m Working On**  
-I'll admit: it’s been a while since my last commit! But I’m currently revisiting my GitHub to showcase some of the work I’ve done in **Data Science** and expand it with new projects as I continue learning and growing in this field. At the same time, I’m diving into **AI and Product Management**, combining technical expertise with strategic thinking to prepare for exciting new challenges.  
+## Background
 
-### 💻 **Languages & Tools**  
-<p align="left">
-  <!-- Linguagens de programação -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/r/r-original.svg" height="40" alt="R" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="SQL" style="margin: 0 15px 15px 0;" />
+I hold a degree in Statistics from ENCE/IBGE and have experience across consulting, utilities, telecom and energy.
 
-  <!-- Ferramentas de desenvolvimento -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg" height="40" alt="GitHub" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" style="margin: 0 15px 15px 0;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" style="margin: 0 15px 15px 0;" />
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab" height="40" alt="Google Colab" style="margin: 0 15px 15px 0;" />
-  
-  <!-- IA e criatividade -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="GPT" style="margin: 0 15px 15px 0;" />
-  <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" height="40" alt="Microsoft Copilot" style="margin: 0 15px 15px 0;" />
-  
-  <!-- Ferramentas de produtividade -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 0 15px 15px 0;" />
-  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" height="40" alt="Excel" style="margin: 0 15px 15px 0;" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" height="40" alt="PowerPoint" style="margin: 0 15px 15px 0;" />
-</p>
+Before moving fully into data, I spent several years as an entrepreneur, which strongly shaped the way I approach ownership, communication, prioritization and business impact.
 
+## Current interests
 
+I'm especially interested in:
 
-### 💬 **Let’s Connect!**  
-Feel free to ask me anything about my journey, passions, or even data!  
-📫 **Reach me on**: [LinkedIn](https://www.linkedin.com/in/fernando-pires-dos-santos/) | [Instagram](https://www.instagram.com/fernandosnts/)
+- Data & Analytics leadership
+- Applied Machine Learning
+- Decision Science
+- Experimentation
+- AI applications
+- Data products
+
+This GitHub contains academic projects, technical studies and selected personal work. Most of my professional work is proprietary and cannot be shared publicly.
+
+## Tools
+
+Python • SQL • R • Pandas • NumPy • Scikit-learn • Power BI • DAX • Git • AWS • Jupyter
+
+## Let's connect
+
+LinkedIn: [Fernando Pires dos Santos](https://www.linkedin.com/in/fernando-pires-dos-santos/)
