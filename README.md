@@ -44,7 +44,9 @@ This GitHub contains academic projects, technical studies and selected personal 
 
 ## Tools
 
-Python • SQL • R • Pandas • NumPy • Scikit-learn • Power BI • DAX • Git • AWS • Jupyter
+## Technical Stack
+
+Python • SQL • PySpark • Scikit-learn • XGBoost • LightGBM • MLflow • dbt • Power BI • DAX • AWS • Git
 
 ## Let's connect
 
